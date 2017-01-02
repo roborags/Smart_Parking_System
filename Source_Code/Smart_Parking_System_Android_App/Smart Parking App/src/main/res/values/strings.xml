@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Midterm Project</string>
+    <string name="Acc_prompt">Choose Sampling Rate</string>
+    <string-array name="Acc_List">
+        <item>MIN</item>
+        <item>MAX</item>
+    </string-array>
+    <string name="GPS_prompt">Choose Sampling Rate</string>
+    <string-array name="GPS_List">
+        <item>MIN</item>
+        <item>MAX</item>
+    </string-array>
+</resources>
